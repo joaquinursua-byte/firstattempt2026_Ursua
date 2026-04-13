@@ -29,6 +29,41 @@ npm install
 npm run dev
 ```
 
+#### AlumniHub – Project File Structure
+ 
+src/
+├── index.css                        ← Global styles & design tokens (replace entirely)
+│
+├── App.jsx                          ← Router config (add all routes here)
+│
+├── components/
+│   └── BottomNav.jsx                ← Shared bottom navigation bar
+│
+└── pages/
+    │
+    ├── ── AUTH ──
+    ├── Login.jsx                    ← Entry point / Sign Up view
+    ├── ForgotPassword.jsx           ← Password recovery
+    ├── RoleSelection.jsx            ← Alumni or Administrator picker
+    │
+    ├── ── ALUMNI ──
+    ├── AlumniHome.jsx               ← Alumni dashboard
+    ├── Events.jsx                   ← Calendar + List view
+    ├── Donations.jsx                ← Giving & Impact feed
+    ├── CampaignDetails.jsx          ← Single campaign story + Donate Now
+    ├── Checkout.jsx                 ← Secure donation checkout
+    ├── DonationHistory.jsx          ← Giving summary + transactions
+    ├── Notifications.jsx            ← Notification center
+    ├── Profile.jsx                  ← Account overview
+    ├── CertificateVault.jsx         ← Verified donation certificates
+    ├── Leaderboard.jsx              ← Batch rankings podium
+    │
+    └── ── ADMIN ──
+        ├── AdminHome.jsx            ← Admin dashboard
+        ├── AdminCampaigns.jsx       ← Campaign management list
+        ├── CreateCampaign.jsx       ← Step 1: Campaign details form
+        └── PublishCampaign.jsx      ← Step 2: Donation options & publish
+
 ### AI Tools:
 
 1. Chat GPT
