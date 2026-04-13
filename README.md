@@ -51,4 +51,7 @@ Ensure the UI is clean, modern, and user-friendly, with reusable components (car
 
 #### Screenshots
 
-"Create an image folder in your root directory and place all screenshots their. You can use the image tag to show the image. Follow this [link]("https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images")"
+<img width="1863" height="953" alt="image" src="https://github.com/user-attachments/assets/a59a068f-26ae-4285-855b-5ca4ca324688" />
+
+
+
