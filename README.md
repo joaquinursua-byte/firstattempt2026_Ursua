@@ -33,7 +33,7 @@ npm run dev
 
 1. Chat GPT
 2. Gemini Pro
-3. Claude 
+3. Claude Pro
 
 ### Prompt:
 
