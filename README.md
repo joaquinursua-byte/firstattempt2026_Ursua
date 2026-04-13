@@ -9,12 +9,23 @@
 To replicate and run this project follow the following steps using Windows Powershell:
 
 ```bash
+# Install Node.js LTS via winget (if not installed)
 winget install OpenJS.NodeJS.LTS
+
+# Use NVM to manage versioning
 nvm install lts
 nvm use lts
-<clone repo link here>
-<...>
-<...>
+
+# Scaffold the SolidJS project
+npm init solid@latest
+
+# Move into the project directory
+cd <your-project-name>
+
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
 ```
 
