@@ -30,6 +30,8 @@ npm run dev
 ```
 
 #### AlumniHub – Project File Structure
+
+```bash
  
 src/
 ├── index.css                        ← Global styles & design tokens (replace entirely)
@@ -63,6 +65,8 @@ src/
         ├── AdminCampaigns.jsx       ← Campaign management list
         ├── CreateCampaign.jsx       ← Step 1: Campaign details form
         └── PublishCampaign.jsx      ← Step 2: Donation options & publish
+
+```
 
 ### AI Tools:
 
