@@ -53,5 +53,30 @@ Ensure the UI is clean, modern, and user-friendly, with reusable components (car
 
 <img width="1863" height="953" alt="image" src="https://github.com/user-attachments/assets/a59a068f-26ae-4285-855b-5ca4ca324688" />
 
+<img width="1857" height="951" alt="image" src="https://github.com/user-attachments/assets/fb63ac49-7597-41f9-8e54-8f184bc34dd7" />
+
+<img width="1860" height="955" alt="image" src="https://github.com/user-attachments/assets/38cf40c4-ffe3-4677-8b40-b24aac39165d" />
+
+<img width="1861" height="948" alt="image" src="https://github.com/user-attachments/assets/bd303aca-1cf8-4778-91e8-13a8d793d446" />
+
+<img width="1858" height="948" alt="image" src="https://github.com/user-attachments/assets/1d0e885b-56ee-4932-a4f9-d1e41419f0f5" />
+
+<img width="1858" height="874" alt="image" src="https://github.com/user-attachments/assets/c1993131-ee48-42b1-956b-a0372a4e44c7" />
+
+<img width="1848" height="580" alt="image" src="https://github.com/user-attachments/assets/2c02704f-7e2f-4e3c-89cb-4886f1291e5e" />
+
+<img width="1858" height="951" alt="image" src="https://github.com/user-attachments/assets/199068ea-5a80-4ea6-97a3-8bb674d780b3" />
+
+<img width="1861" height="877" alt="image" src="https://github.com/user-attachments/assets/e890b398-26b6-4124-a60f-46e4b3178175" />
+
+<img width="1854" height="951" alt="image" src="https://github.com/user-attachments/assets/3d503210-e006-4120-9286-bbb1d4351049" />
+
+<img width="1860" height="958" alt="image" src="https://github.com/user-attachments/assets/a692180f-33d3-48cd-bc4c-b1fe442396c6" />
+
+<img width="1856" height="951" alt="image" src="https://github.com/user-attachments/assets/71c29dc3-4487-47d8-9d9c-252c63761d92" />
+
+<img width="1856" height="948" alt="image" src="https://github.com/user-attachments/assets/f3ebd7cf-1a28-4b34-a016-536d4248179d" />
+
+<img width="1858" height="948" alt="image" src="https://github.com/user-attachments/assets/3278209e-fccd-46ca-b486-391ca8245df9" />
 
 
